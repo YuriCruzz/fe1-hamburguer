@@ -9,56 +9,56 @@ img {
 
 #pao-topo {
     top: calc(50% - 272px/2);
-    left: calc(50% - 476px);
+    left: calc(50% - 476px/2);
     position: absolute;
     z-index: 0;
 }
 
 #cebolas {
     top: calc(50% - 216px/2);
-    left: calc(50% - 456px);
+    left: calc(50% - 456px/2);
     position: absolute;
     z-index: -1;
 }
 
 #tomate {
     top: calc(50% - 201px/2);
-    left: calc(50% - 501px);
+    left: calc(50% - 501px/2);
     position: absolute;
     z-index: -2;
 }
 
 #alface {
     top: calc(50% - 219px/2);
-    left: calc(50% - 596px);
+    left: calc(50% - 596px/2);
     position: absolute;
     z-index: -3;
 }
 
 #queijo {
     top: calc(50% - 247px/2);
-    left: calc(50% - 521px);
+    left: calc(50% - 521px/2);
     position: absolute;
     z-index: -4;
 }
 
 #hamburguer {
     top: calc(50% - 298px/2);
-    left: calc(50% - 490px);
+    left: calc(50% - 490px/2);
     position: absolute;
     z-index: -5;
 }
 
 #queijo-2 {
     top: calc(50% - 247px/2);
-    left: calc(50% - 521px);
+    left: calc(50% - 521px/2);
     position: absolute;
     z-index: -6;
 }
 
 #pao-fundo {
     top: calc(50% - 284px/2);
-    left: calc(50% - 490px);
+    left: calc(50% - 490px/2);
     position: absolute;
     z-index: -7;
 }
