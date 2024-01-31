@@ -1,5 +1,45 @@
 img {
     display: block;
-    /* position: relative; */
-    /* left: 50px; */
+    position: relative;
+    left: 600px;
+}
+
+#pao-topo {
+    margin-top: 50px;
+    position: absolute;
+}
+
+#cebolas {
+    margin-top: 200px;
+    position: absolute;
+}
+
+#tomate {
+    margin-top: 250px;
+    position: absolute;
+}
+
+#quijo {
+    margin-top: 300px;
+    position: absolute;
+}
+
+#alface {
+    margin-top: 350px;
+    position: absolute;
+}
+
+#hamburguer {
+    margin-top: 400px;
+    position: absolute;
+}
+
+#queijo-2 {
+    margin-top: 450px;
+    position: absolute;
+}
+
+#pao-fundo {
+    margin-top: 500px;
+    position: absolute;
 }
