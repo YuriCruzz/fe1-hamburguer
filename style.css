@@ -1,45 +1,64 @@
+body {
+    display: flex;
+}
+
 img {
     display: block;
     position: relative;
-    left: 600px;
 }
 
 #pao-topo {
-    margin-top: 50px;
+    top: calc(50% - 272px/2);
+    left: calc(50% - 476px);
     position: absolute;
+    z-index: 0;
 }
 
 #cebolas {
-    margin-top: 200px;
+    top: calc(50% - 216px/2);
+    left: calc(50% - 456px);
     position: absolute;
+    z-index: -1;
 }
 
 #tomate {
-    margin-top: 250px;
+    top: calc(50% - 201px/2);
+    left: calc(50% - 501px);
     position: absolute;
-}
-
-#quijo {
-    margin-top: 300px;
-    position: absolute;
+    z-index: -2;
 }
 
 #alface {
-    margin-top: 350px;
+    top: calc(50% - 219px/2);
+    left: calc(50% - 596px);
     position: absolute;
+    z-index: -3;
+}
+
+#queijo {
+    top: calc(50% - 247px/2);
+    left: calc(50% - 521px);
+    position: absolute;
+    z-index: -4;
 }
 
 #hamburguer {
-    margin-top: 400px;
+    top: calc(50% - 298px/2);
+    left: calc(50% - 490px);
     position: absolute;
+    z-index: -5;
 }
 
 #queijo-2 {
-    margin-top: 450px;
+    top: calc(50% - 247px/2);
+    left: calc(50% - 521px);
     position: absolute;
+    z-index: -6;
 }
 
 #pao-fundo {
-    margin-top: 500px;
+    top: calc(50% - 284px/2);
+    left: calc(50% - 490px);
     position: absolute;
+    z-index: -7;
 }
